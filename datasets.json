@@ -1,0 +1,42 @@
+{
+  "hycom": {
+    "file": "../../MetOcean/dataset-metadata/dataset_coords_json/hycom.json",
+    "zoom": 9
+  },
+  "glob": {
+    "file": "../../MetOcean/dataset-metadata/dataset_coords_json/glob.json",
+    "zoom": 7
+  },
+  "glob_timeseries": {
+    "file": "../../MetOcean/dataset-metadata/dataset_coords_json/glob_timeseries.json",
+    "zoom": 7
+  },
+  "jra55": {
+    "file": "../../MetOcean/dataset-metadata/dataset_coords_json/jra55.json",
+    "zoom": 7
+  },
+  "cfsr": {
+    "file": "../../MetOcean/dataset-metadata/dataset_coords_json/cfsr.json",
+    "zoom": 8
+  },
+  "cfsr_ice": {
+    "file": "../../MetOcean/dataset-metadata/dataset_coords_json/cfsr_ice.json",
+    "zoom": 7
+  },
+  "cfsr_mslp": {
+    "file": "../../MetOcean/dataset-metadata/dataset_coords_json/cfsr_mslp.json",
+    "zoom": 7
+  },
+  "cfsr2": {
+    "file": "../../MetOcean/dataset-metadata/dataset_coords_json/cfsr2.json",
+    "zoom": 8
+  },
+  "cfsr2_ice": {
+    "file": "../../MetOcean/dataset-metadata/dataset_coords_json/cfsr2_ice.json",
+    "zoom": 7
+  },
+  "cfsr2_mslp": {
+    "file": "../../MetOcean/dataset-metadata/dataset_coords_json/cfsr2_mslp.json",
+    "zoom": 7
+  }
+}

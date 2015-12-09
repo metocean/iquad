@@ -1,0 +1,31 @@
+{
+  "name": "iquad",
+  "version": "0.0.1",
+  "description": "http server for vector tiles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/metocean/iquad.git"
+  },
+  "author": "Thomas Coats <t.coats@metocean.co.nz>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/metocean/iquad/issues"
+  },
+  "homepage": "https://github.com/metocean/iquad#readme",
+  "dependencies": {
+    "compression": "1.6.0",
+    "express": "4.13.3",
+    "filesize": "3.1.4",
+    "http-mutunga": "1.0.0",
+    "lnglattotile": "1.0.1",
+    "odo-async": "1.0.2",
+    "quaddy": "1.0.1",
+    "tiletolnglat": "1.0.0",
+    "whakaruru": "1.0.2",
+    "whakaruru-watch": "1.0.0"
+  }
+}
