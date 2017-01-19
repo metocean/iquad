@@ -1,0 +1,6 @@
+{
+  "service": {
+    "name": "hindcast-iquad",
+    "port": 8081
+  }
+}

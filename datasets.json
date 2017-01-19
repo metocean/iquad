@@ -38,5 +38,9 @@
   "cfsr2_mslp": {
     "file": "../../MetOcean/dataset-metadata/dataset_coords_json/cfsr2_mslp.json",
     "zoom": 7
+  },
+  "ww3_mediterranean_timeseries": {
+    "file": "../../MetOcean/dataset-metadata/dataset_coords_json/cfsr2_mslp.json",
+    "zoom": 7
   }
 }
