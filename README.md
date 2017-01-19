@@ -2,4 +2,4 @@
 http server for vector tiles
 
 # dependencies
-datasets.json is to be copied from metocean/metadata-datasets ... /dataset_coords_json/datasets.json
+This service expects the repo `dataset-metadata` to live in `/source/dataset-metadata`

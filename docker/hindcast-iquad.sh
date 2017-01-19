@@ -1,4 +1,4 @@
 #!/bin/sh
 
-cd /home/hindcast/
-exec node iquad/server.js
+cd /home/hindcastiquad/
+exec node index.js
