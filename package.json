@@ -18,6 +18,7 @@
   "homepage": "https://github.com/metocean/iquad#readme",
   "dependencies": {
     "compression": "1.6.0",
+    "cors": "2.8.5",
     "express": "4.13.3",
     "filesize": "3.1.4",
     "http-mutunga": "1.0.0",

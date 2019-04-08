@@ -2,6 +2,7 @@
 var whakaruru;
 
 whakaruru = require('whakaruru');
+var cors = require('cors')
 
 whakaruru(function() {
   var app, async, compression, dataset, datasets, express, filesize, fn, fs, heap, maxzoom, metadatadir, mutunga, name, path, quaddy, quadify, tasks, tiletolnglat, url;
@@ -16,6 +17,7 @@ whakaruru(function() {
   quaddy = require('quaddy');
   url = require('url');
   app = express();
+  app.use(cors())
   app.use((function(_this) {
     return function(req, res, next) {
       var referrer, u;
